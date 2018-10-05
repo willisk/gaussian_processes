@@ -2,8 +2,7 @@
 
 This code showcases the different parameters used for gaussian process regression.
 
-Following Machine Learning and Pattern Recognition (Bishop) I implemented GPR in python
-along with a small widget using matplotlib to be able to see the effects of the hyperparameters.
+Following Machine Learning and Pattern Recognition (Bishop) I implemented GPR in python along with a small widget using matplotlib to be able to see the effect of the hyperparameters on the regression.
 
 ![Alt text](Demo_1.png?raw=true "Demo_1")
 

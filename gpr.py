@@ -1,7 +1,4 @@
 import numpy as np
-from matplotlib import pyplot as plt
-import plotly.offline as py
-import plotly.graph_objs as go
 
 class GP():
 
